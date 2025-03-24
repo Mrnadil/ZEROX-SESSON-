@@ -21,6 +21,6 @@
 
 # `Owner`
 
- <a href="https://github.com/Mrnadil"><img src="https://github.com/username.png" width="250" height="250" alt="Malvin Tech"/></a>
+ <a href="https://github.com/Mrnadil"><img src="https://files.catbox.moe/0xs8xq.jpg" width="250" height="250" alt="Nadil Hansaja"/></a>
 
    
